@@ -30,17 +30,17 @@ I’m passionate about building **AI-powered solutions and data-driven applicati
 
 ### 📌 **Featured Projects**
 
-#### 1. [MedAgent](https://github.com/yourusername/medagent)
+#### 1. [MedAgent](https://github.com/Ryan-alex5/RAG-MedAgent)
 AI-powered **medical assistant** that helps users get health-related answers efficiently.  
 *Tech:* Python, LangChain, OpenAI, Streamlit.  
 *Impact:* Simplifies medical research and information retrieval for non-experts.
 
-#### 2. [Data Profiling & Exploration Tool](https://github.com/yourusername/data-profiling-app)
+#### 2. [Data Profiling & Exploration Tool](https://github.com/Ryan-alex5/Data-Profiling-Project)
 Interactive **data profiling app** that generates insights from datasets and provides a **chatbot interface** for SQL queries and data exploration.  
 *Tech:* Python, Streamlit, MySQL, LangChain.  
 *Impact:* Streamlines analytics workflows and reduces manual effort in data analysis.
 
-#### 3. [AI Journalist](https://github.com/yourusername/ai-journalist)
+#### 3. [AI Journalist](https://github.com/Ryan-alex5/AI-Journalist)
 Generates **news articles and summaries** using AI, combining natural language understanding with automated content creation.  
 *Tech:* Python, LangChain, OpenAI.  
 *Impact:* Automates content generation while maintaining readability and relevance.
